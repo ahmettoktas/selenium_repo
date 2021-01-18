@@ -7,7 +7,7 @@ import unittest
 class TestRun(unittest.TestCase, BaseFunctions):
     """Test case is:
         1 - Navigate to site.
-        3 - Click to sign up button.
+        2 - Click to sign up button.
         """
 
     def setUp(self):
